@@ -1,0 +1,13 @@
+{
+    "name": "axti-app",
+    "author": "Cookies ( Laura )",
+    "version": "0.0.1",
+    "description": "socket.io based tchat with history",
+    "dependencies": {
+        "express": "^4.15.2",
+        "socket.io": "^2.3.0"
+    },
+    "scripts": {
+      "start": "node main.js"
+    }
+}
